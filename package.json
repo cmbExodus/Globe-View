@@ -1,8 +1,13 @@
 {
   "name": "globe-view",
+  "description": "An interactive 3D Earth globe rendered as a real-geography dot map, with glowing city points.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmbExodus/Globe-View.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
