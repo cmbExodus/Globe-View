@@ -50,3 +50,6 @@ src/
 
 - [Svelte 4](https://svelte.dev/) + [Vite](https://vitejs.dev/)
 - [Three.js](https://threejs.org/) (`WebGLRenderer`, `OrbitControls`, `Points`, `Sprite`)
+
+<img width="1175" height="797" alt="image" src="https://github.com/user-attachments/assets/8afec4b7-9781-44ac-8ae1-b6400e7f8c5c" />
+
